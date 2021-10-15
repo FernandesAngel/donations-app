@@ -1,0 +1,12 @@
+{
+  "name": "donationsapp",
+  "displayName": "donationsapp",
+  "expo": {
+    "name": "donationsapp",
+    "slug": "donationsapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
